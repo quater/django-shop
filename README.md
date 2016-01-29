@@ -1,6 +1,8 @@
 # Breaking News
 
-Today, as of 2015-12-05, I finally finished three demos which should run out of the box.
+Today, as of 2016-01-30, I finally released version 0.9.0rc1 officially.
+
+It now is available from https://github.com/awesto/django-shop
 
 Please read the files ``docs/tutorial/intro.rst`` and ``docs/tutorial/quickstart.rst``. Following
 the instructions should create a running shop in minutes, prefilled with a dozen of products.
